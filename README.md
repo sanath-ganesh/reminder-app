@@ -99,6 +99,7 @@ This project consists of a simple REST API built with Node.js/Express and a fron
 : Delete a reminder.
 
 ## Project Structure
+```text
 meeting-notes-app/
 ├── backend/
 │   ├── config/
@@ -115,6 +116,7 @@ meeting-notes-app/
 │   │   ├── App.js
 │   │   ├── index.js
 │   ├── vite.config.js
+```
 
 ## Usage
 - ### Backend: Use the provided endpoints to manage reminders.
